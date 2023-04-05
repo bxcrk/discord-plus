@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Frankfurter Medium';
-  --dplus-font-body: 'Frankfurter Medium';
-  --dplus-font-header: 'Frankfurter Std Regular';
+  --dplus-font-ui: 'Frankfurter';
+  --dplus-font-body: 'Frankfurter';
+  --dplus-font-header: 'Frankfurter Std';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
