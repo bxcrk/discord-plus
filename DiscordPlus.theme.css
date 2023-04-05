@@ -62,7 +62,7 @@
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'Frankfurter';
   --dplus-font-body: 'Frankfurter';
-  --dplus-font-header: 'Frankfurter Std';
+  --dplus-font-header: 'Frankfurter';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
